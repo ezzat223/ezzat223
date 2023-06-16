@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezzat Hegazy Ezzat</h1>
 <h3 align="center">Senior at Faculty of Engineering Cairo University, Systems and Biomedical Enginering Department.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.9b6764db36bb48ac8d5c58c2c60190b8?rik=UDOFoWfIdynCzw&pid=ImgRaw&r=0">
 
 - 📫 How to reach me **ezzat22hegazy@gmail.com**
 
