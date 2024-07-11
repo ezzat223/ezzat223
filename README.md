@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ezzat Fahmy</h1>
 <h3 align="center">Systems and Biomedical Engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/ba6d7d37fa1e4ca966ac7328bf43b96c/tenor.gif?itemid=18657810">
+
+- 📫 How to reach me **ezzat.fahmy27@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
